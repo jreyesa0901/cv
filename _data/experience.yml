@@ -9,3 +9,4 @@
   their corresponding actions, as well as unit '-', 
   integration '-' and manual '-' exploratory tests.Migrating and maintaining legacy code in C for electronic pipettes, 
   using GIT and IAR compilation and debugging tools."
+  summary: "another stuff"
