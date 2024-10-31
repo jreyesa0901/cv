@@ -4,11 +4,9 @@
 - company: Eppendorf Liquid Handling GmbH, Hamburg, Ger
   position: Software Engineer in Embedded Systems
   duration: "Full-time ':' May 2023 &mdash Nov 2023"
-  summary:
-    - "Working together with the SW and QA team to create a new generation of 
+  summary: <ul class="resume-item-list"><li>"Working together with the SW and QA team to create a new generation of 
   electronic pipettes, employing modern object-oriented techniques with C++ and Git. 
   Incorporating new features such as operating modes, screen buttons, 
   their corresponding actions, as well as unit '-', 
-  integration '-' and manual '-' exploratory tests." 
-   - "Migrating and maintaining legacy code in C for electronic pipettes, 
-  using GIT and IAR compilation and debugging tools."
+  integration '-' and manual '-' exploratory tests."</li><li>"Migrating and maintaining legacy code in C for electronic pipettes, 
+  using GIT and IAR compilation and debugging tools."</li><li>or a team or department you worked with</li></ul>
