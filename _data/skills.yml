@@ -1,13 +1,28 @@
 # Skills
-# Organizational leadership
 # <ul class="resume-item-list"><li></li>
+# Languages
 - skill: Languages
-  description: <ul class="resume-item-list"><li>"German; upper intermediate, Goether Zertifikat B2.1"</li>
+  description: <ul class="resume-item-list"><li>German; upper intermediate, B2, Goethe Zertifikat</li><li>English; advanced, C1, IELTS Overall Result Band 7.0</li><li>Spanish, mother tongue</li>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Communications and work strategy
+- skill: Soft skills
+  description: Autonomy, Self-learning, Flexibility, Proactivity, Order, Pragmatic, Multicultural thinking
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Relevant technical skills
+- skill: Hardware
+  description: ATSAME5x, STM32F4xx(ARM MCU), LAN/USB controllers from Microchip LAN78xx / USB57xx, ESC controller LAN925x, foundations TMS-F2838x (C2000 RT-MPU), IRIDIUM 9603 (Satellite transceiver), ESP32/RFM95W (LoRa transceiver).
+
+- skill: Design and simulation IDEs
+  description: Altium, EAGLE(PCBdesign),SolidWorks,OMNET++(Simmulation of communication networks), UPPAAL (Software Verification).
+
+- skill: Programming IDEs 
+  description: TwinCAT3, Visual Studio, Eclipse, STM32CubeIDE, foundations Code Composer and MPLAB, SIEMENS TIA PORTAL, MATLAB, LabView, Linux-based hardware configuration tools, Linux Bash Terminal, , EPSON’s IDE for Robot’s Controllers, PlatformIO, AVR/Microchip Studio.
+
+- skill: Programming languages 
+  description: C for embedded applications, ExST, C++, Python, Ladder (S7), SPEL+, foundations of YAML, HTML, Markdown, LaTEX.
+
+- skill: Libraries 
+  description: SF4 API (AVR Libraries), CMSIS-RTOS, FreeRTOS, STM HAL Libraries, SOES/SOEM open EtherCAT libraries, C2000 APIs , ESP-1ch-Gateway, arduino lmic and others.
+
+- skill: Management SW
+ description: ther SW: GIT control version tool, MS Office, MS Project, Confluence, Jira, Miro, foundations of Canva.
