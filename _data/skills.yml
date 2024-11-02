@@ -24,5 +24,5 @@
 - skill: Libraries
   description: SF4 API (AVR Libraries), CMSIS-RTOS, FreeRTOS, STM HAL Libraries, SOES/SOEM open EtherCAT libraries, C2000 APIs , ESP-1ch-Gateway, arduino lmic and others.
 
-- skill: Management SW
-  description: ther SW: GIT control version tool, MS Office, MS Project, Confluence, Jira, Miro, foundations of Canva.
+- skill: Management SW and others
+  description: GIT control version tool, MS Office, MS Project, Confluence, Jira, Miro, foundations of Canva.
