@@ -10,14 +10,21 @@
 
 # master thesis
 - project: "Master Thesis: Communication concept for multi-sensor platform"
-  role: Master student, Institute for Mechatronics (iMEK)
+  role: Master student, Institute for Mechatronics (iMEK,TUHH)
   duration: WiSe 2021
-  # url: "#"
+  url: "https://www.tuhh.de/imek/forschung-und-projekte/projekte/amused"
   description: <ul class="resume-item-list"><li>Integration of IRIDIUM and LoRaWAN modules into a communication prototype.</li><li>Design and documentation of a communication strategy focused on power-saving.</li><li>Developing of FW written in C for the communication board.</li><li>PCB design with EAGLE and HW-tests of the prototype.</li>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# projektarbeit
+- project: "Research Project: Development of an embedded communication hub for sensor data acquisition in a robotic system"
+  role: Master student, smartPORT Institute (TUHH) and Neura Robotics GmbH
+  duration: SoSe 2020
+  url: "https://neura-robotics.com/products/maira"
+  description: <ul class="resume-item-list"><li>FW/HW Design and implementation of an EtherCAT-compatible communication node prototype, using FreeRTOS and Altium.</li>
+
+# gromprojekt
+- project: "gromprojekt: iniciativa cultural en Puebla Sur"
+  role: Founder & Primary Developer
+  duration: Since 2024, seasonal
+  url: "https://www.instagram.com/gromprojekt.mex/"
+  description: Small local cultural events and local news.
