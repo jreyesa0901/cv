@@ -23,8 +23,8 @@
   description: <ul class="resume-item-list"><li>FW/HW Design and implementation of an EtherCAT-compatible communication node prototype, using FreeRTOS and Altium.</li>
 
 # gromprojekt
-- project: "gromprojekt: iniciativa cultural en Puebla Sur"
-  role: Founder & Primary Developer
-  duration: Since 2024, seasonal
-  url: "https://www.instagram.com/gromprojekt.mex/"
-  description: Small local cultural events and local news.
+#- project: "gromprojekt: iniciativa cultural en Puebla Sur"
+#  role: Founder & Primary Developer
+#  duration: Since 2024, seasonal
+#  url: "https://www.instagram.com/gromprojekt.mex/"
+#  description: Small local cultural events and local news.

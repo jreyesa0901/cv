@@ -9,14 +9,14 @@
 
 - degree: MSc, Information and Communication Systems
   uni: Hamburg University of Technology (TUHH), Germany
-  year: 2018 - 2022
+  year: 2018-2022
   awards:
-    - award: "Master Thesis: Communication concept for multi-sensor platform"
-    - award: "Research Project: Development of an embedded communication hub for sensor data acquisition in a robotic system"
+    - award: "Master Thesis: Communication concept for multi-sensor platform."
+    - award: "Research Project: Development of an embedded communication hub for sensor data acquisition in a robotic system."
   summary: "Focus: Secure and dependable communication systems and networks."
 
 - degree: BSc, Mechatronics
   uni: National Polytechnic Institute (IPN), Mexico
-  year: 2010 - 2015
+  year: 2010-2015
   #award: Most likely to succeed
   summary: Topics mainly focused on Electronics, Industrial Applications, Automation and Robotics.

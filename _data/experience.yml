@@ -7,32 +7,32 @@
 
 
 # Freelance
-- company: Freelance
-  position: IT Consulting
+- company: General IT Consulting, Mex
+  position: Freelancer
   duration: "Part-time: Since Jun 2024"
   summary: <ul class="resume-item-list"><li>*TODO Security cameras, home modems configuration, basic web pages creation for cultural initiatives and software management for starting tech teams.</li>
 # Eppi
-- company: Eppendorf Liquid Handling GmbH, Hamburg, Ger
+- company: Eppendorf Liquid Handling GmbH, Ger
   position: Software Engineer in Embedded Systems
-  duration: "Full-time: May 2023-Nov 2023"
-  summary: <ul class="resume-item-list"><li>Working together with the SW and QA team to create a new generation of electronic pipettes, employing modern object'-'oriented techniques with Cpp and Git.</li><li>Incorporating new features such as operating modes, screen buttons, their corresponding actions, as well as unit '-', integration '-' and manual '-' exploratory tests. </li><li>Migrating and maintaining legacy code in C for electronic pipettes, using GIT and IAR compilation and debugging tools.</li>
+  duration: "Full-time: 2023"
+  summary: <ul class="resume-item-list"><li>Working together with the SW and QA team to create a new generation of electronic pipettes, employing modern object-oriented techniques with Cpp and Git.</li><li>Incorporating new features such as operating modes, screen buttons, their corresponding actions, as well as unit-, integration tests, as well as manual exploratory tests. </li><li>Migrating and maintaining legacy code in C for electronic pipettes, using GIT and IAR compilation and debugging tools.</li>
 # Neura
-- company: Neura Robotics GmbH, Hamburg-Metzingen, Ger
+- company: Neura Robotics GmbH, Ger
   position: Embedded Systems Engineer
-  duration: "Full-time: Apr 2022-March 2023, Part-time: Apr 2022-March 2022"
-  summary: <ul class="resume-item-list"><li>Product development (HW and SW) up to "pre-production" phase (TRL6-7) of an EtherCAT-compatible communication board for an industrial robot arm, using ARM MCU with CMSIS-RTOS and Git tools. (STM32, Microchip's ESC and SOES)</li><li>2 to 6-layer PCB design with Altium for different prototypes and product care (LED arrays, encoders, IO-interfaces, USB-LAN and EtherCAT boards).</li><li>HW and SW integration-, functional-, exploratory- and smoke tests using TwinCAT and C Debugging Tools.</li><li>Planning and decision-making support for electronic prototypes (FW and HW)</li>
+  duration: "Part-time: 2020-2022, Full-time: 2022-2023"
+  summary: <ul class="resume-item-list"><li>Product development (HW and SW) up to "pre-production" phase (TRL6-7) of an EtherCAT-compatible communication board for an industrial robot arm, using ARM MCU with CMSIS-RTOS and Git tools. (STM32, Microchip's ESC and SOES).</li><li>2 to 6-layer PCB design with Altium for different prototypes and product care (LED arrays, encoders, IO-interfaces, USB-LAN and EtherCAT boards).</li><li>HW and SW integration-, functional-, exploratory- and smoke tests using TwinCAT and C Debugging Tools.</li><li>Planning and decision-making support for electronic prototypes (FW and HW).</li>
 # imatec
-- company: ima-tec gmbh, Würzburg, Ger
-  position: Software Developer for IPCs/PLCs
-  duration: "Part-time: Oct 2018-Jan 2020"
+- company: ima-tec gmbh, Ger
+  position: Software Developer for IPCs and PLCs
+  duration: "Part-time: 2018-2020"
   summary: <ul class="resume-item-list"><li>Design of a SDCI (IO-Link)-compatible device up to research prototype (TRL-3) using ARM based STM32 developing board.</li><li>Programming of Beckhoff's IPCs (TwinCAT) for high presicion assembly stations and one integration of a low-weight EPSON Robot in a test-station.</li><li>Integration of a 3D-Vision system into a robotic inspection station using EtherCAT, TwinCAT and Git tools.</li>
 # BOS
-- company: BOS Automotive Products Inc, Irapuato, Mex/Mosonszolnok, Hun
+- company: BOS Automotive Products Inc, Mex/Hun
   position: Automation and PLCs Engineer
-  duration: "Full-time: Jul 2016-Jul 2018"
+  duration: "Full-time: 2016-2018"
   summary: <ul class="resume-item-list"><li>Supporting Launch Manufacturing/Quality Engineers during planning, integration and fine-tuning of new Sunroof assembly line and various EOL-Testers.</li><li>PLC and HMI programming using Siemen's TIA PORTAL (S7-1200 and TP700).</li><li>Commissioning of COGNEX/Keyence vision systems and SICK sensors.</li><li>Software-oriented training for maintenance of robotic cells in Hungary.</li>
 #Drone
 - company: Drone Evolution (Pre-seed Startup)
   position: HW Technician for Drones
-  duration: "Part-time: Jan-Apr 2016"
+  duration: "Part-time: 2016"
   summary: <ul class="resume-item-list"><li>Electronic repairment, FW-flashing and stock organization.</li> 

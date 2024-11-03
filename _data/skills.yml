@@ -2,11 +2,11 @@
 # <ul class="resume-item-list"><li></li>
 # Languages
 - skill: Languages
-  description: <ul class="resume-item-list"><li>German; upper intermediate, B2, Goethe Zertifikat</li><li>English; advanced, C1, IELTS Overall Result Band 7.0</li><li>Spanish, mother tongue</li>
+  description: <ul class="resume-item-list"><li>German; upper intermediate, B2, Goethe Zertifikat.</li><li>English; advanced, C1, IELTS Overall Result Band 7.0.</li><li>Spanish, mother tongue.</li>
 
-# Communications and work strategy
-- skill: Soft skills
-  description: Autonomy, Self-learning, Flexibility, Proactivity, Order, Pragmatic, Multicultural thinking
+# Communication and work strategy
+- skill: Communication and work strategy
+  description: Autonomy, self-learning, flexibility, proactivity, order, pragmatic and multicultural thinking.
 
 # Relevant technical skills
 - skill: Hardware
@@ -15,11 +15,11 @@
 - skill: Design and simulation IDEs
   description: Altium, EAGLE(PCBdesign),SolidWorks,OMNET++(Simmulation of communication networks), UPPAAL (Software Verification).
 
-- skill: Programming IDEs
-  description: TwinCAT3, Visual Studio, Eclipse, STM32CubeIDE, foundations Code Composer and MPLAB, SIEMENS TIA PORTAL, MATLAB, LabView, Linux-based hardware configuration tools, Linux Bash Terminal, , EPSON’s IDE for Robot’s Controllers, PlatformIO, AVR/Microchip Studio.
-
 - skill: Programming languages
   description: C for embedded applications, ExST, C++, Python, Ladder (S7), SPEL+, foundations of YAML, HTML, Markdown, LaTEX.
+
+- skill: Programming IDEs
+  description: TwinCAT3, Visual Studio, Eclipse, STM32CubeIDE, foundations Code Composer and MPLAB, SIEMENS TIA PORTAL, MATLAB, LabView, Linux-based hardware configuration tools, Linux Bash Terminal, , EPSON’s IDE for Robot’s Controllers, PlatformIO, AVR/Microchip Studio.
 
 - skill: Libraries
   description: SF4 API (AVR Libraries), CMSIS-RTOS, FreeRTOS, STM HAL Libraries, SOES/SOEM open EtherCAT libraries, C2000 APIs , ESP-1ch-Gateway, arduino lmic and others.
