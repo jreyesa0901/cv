@@ -13,7 +13,7 @@
   role: Master student, Institute for Mechatronics (iMEK,TUHH)
   duration: WiSe 2021
   url: "https://www.tuhh.de/imek/forschung-und-projekte/projekte/amused"
-  description: <ul class="resume-item-list"><li>Integration of IRIDIUM and LoRaWAN modules into a communication prototype.</li><li>Design and documentation of a communication strategy focused on power-saving.</li><li>Developing of FW written in C for the communication board.</li><li>PCB design with EAGLE and HW-tests of the prototype.</li>
+  description: <ul class="resume-item-list"><li>Integration of IRIDIUM and LoRaWAN modules into a communication prototype.</li><li>Design and documentation of a communication strategy focused on power-saving.</li><li>Development of FW written in C for a communication board.</li><li>PCB design with EAGLE and HW-tests of the prototype.</li>
 
 # projektarbeit
 - project: "Research Project: Development of an embedded communication hub for sensor data acquisition in a robotic system"

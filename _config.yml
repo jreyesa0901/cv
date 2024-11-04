@@ -20,10 +20,10 @@ resume_contact_email:           "jreyesa0901@web.de"
 resume_contact_telephone:       ""
 resume_contact_address:         "12555, Berlin"
 
-resume_header_contact_info:     "12555, Berlin • jreyesa0901(dot)web(dot)com • jreyesa0901(dot)gmail(dot)com"
+resume_header_contact_info:     "12555, Berlin • jreyesa0901(at)web(dot)com • jreyesa0901(at)gmail(dot)com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Currently my 5+ years of experience as SW and HW developer motivates me to grow professionally in areas such as SW Testing for embedded systems (automatic integration, functional, acceptance tests), certification of industrial communication modules and assessment of system's reliability.</p>"
+resume_header_intro: "<p>My 5+ years of experience as SW and HW developer motivates me to grow professionally in areas such as SW Testing for embedded systems (automatic integration, functional, acceptance tests), certification of industrial communication modules and assessment of systems reliability.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,7 +38,7 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
-resume_section_links:           false
+resume_section_links:           true
 resume_section_associations:    false
 # resume_section_interests:       true
 

@@ -4,23 +4,23 @@
 #  position: IT Consulting
 #  duration: "Part-time: Since Jun 2024"
 #  summary: <ul class="resume-item-list"><li></li><li></li><li></li>
-
+#  use nouns instead of ings
 
 # Freelance
 - company: General IT Consulting, Mex
   position: Freelancer
   duration: "Part-time: Since Jun 2024"
-  summary: <ul class="resume-item-list"><li>*TODO Security cameras, home modems configuration, basic web pages creation for cultural initiatives and software management for starting tech teams.</li>
+  summary: <ul class="resume-item-list"><li> Software management for starting tech teams, home-security cameras and modems configuration, basic web pages creation for independent initiatives.</li>
 # Eppi
 - company: Eppendorf Liquid Handling GmbH, Ger
   position: Software Engineer in Embedded Systems
   duration: "Full-time: 2023"
-  summary: <ul class="resume-item-list"><li>Working together with the SW and QA team to create a new generation of electronic pipettes, employing modern object-oriented techniques with Cpp and Git.</li><li>Incorporating new features such as operating modes, screen buttons, their corresponding actions, as well as unit-, integration tests, as well as manual exploratory tests. </li><li>Migrating and maintaining legacy code in C for electronic pipettes, using GIT and IAR compilation and debugging tools.</li>
+  summary: <ul class="resume-item-list"><li>Support for SW and QA teams to create a new generation of electronic pipettes, employing modern object-oriented techniques with C++ and Git.</li><li>Incorporation of new features such as operating modes, screen buttons, their corresponding actions, as well as unit-, integration tests and manual exploratory tests. </li><li>Migration and maintenance of legacy code in C for electronic pipettes, using GIT and IAR compilation and debugging tools.</li>
 # Neura
 - company: Neura Robotics GmbH, Ger
   position: Embedded Systems Engineer
   duration: "Part-time: 2020-2022, Full-time: 2022-2023"
-  summary: <ul class="resume-item-list"><li>Product development (HW and SW) up to "pre-production" phase (TRL6-7) of an EtherCAT-compatible communication board for an industrial robot arm, using ARM MCU with CMSIS-RTOS and Git tools. (STM32, Microchip's ESC and SOES).</li><li>2 to 6-layer PCB design with Altium for different prototypes and product care (LED arrays, encoders, IO-interfaces, USB-LAN and EtherCAT boards).</li><li>HW and SW integration-, functional-, exploratory- and smoke tests using TwinCAT and C Debugging Tools.</li><li>Planning and decision-making support for electronic prototypes (FW and HW).</li>
+  summary: <ul class="resume-item-list"><li>Product development (HW and SW) up to "pre-production" phase (TRL6-7) of an EtherCAT-compatible communication board for an industrial robot arm, using ARM MCU with CMSIS-RTOS and Git tools. (STM32, Microchip's ESC and SOES).</li><li>2 to 6-layer PCB design with Altium for different prototypes and product care (LED arrays, encoders, IO-interfaces, USB-LAN and EtherCAT boards).</li><li>Integration-, functional-, exploratory- and smoke tests of HW and SW using TwinCAT and C Debugging Tools.</li><li>Planning and decision-making support for electronic prototypes (FW and HW).</li>
 # imatec
 - company: ima-tec gmbh, Ger
   position: Software Developer for IPCs and PLCs
@@ -30,7 +30,7 @@
 - company: BOS Automotive Products Inc, Mex/Hun
   position: Automation and PLCs Engineer
   duration: "Full-time: 2016-2018"
-  summary: <ul class="resume-item-list"><li>Supporting Launch Manufacturing/Quality Engineers during planning, integration and fine-tuning of new Sunroof assembly line and various EOL-Testers.</li><li>PLC and HMI programming using Siemen's TIA PORTAL (S7-1200 and TP700).</li><li>Commissioning of COGNEX/Keyence vision systems and SICK sensors.</li><li>Software-oriented training for maintenance of robotic cells in Hungary.</li>
+  summary: <ul class="resume-item-list"><li>Support for Launch Manufacturing/Quality Engineers during planning, integration and fine-tuning of a new Sunroof assembly line and various EOL-Testers.</li><li>PLC and HMI programming using Siemen's TIA PORTAL (S7-1200 and TP700).</li><li>Commissioning of COGNEX/Keyence vision systems and SICK sensors.</li><li>Trainee in Hungary of SW-oriented maintenance for robotic cells.</li>
 #Drone
 - company: Drone Evolution (Pre-seed Startup)
   position: HW Technician for Drones

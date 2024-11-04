@@ -107,7 +107,7 @@
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
@@ -206,7 +206,7 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            <li><a href={{ link.url }} itemprop="url" target="_blank">{{ link.description }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -232,8 +232,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">Reworked by <a href="https://mastodon.social/@carlosreyes_iniciativa" target="_blank">@carlosreyes_iniciativa</a>. Follow me on <a href="https://a-comming-page.com/carlosreyes_iniciativa" target="_blank">Instagram</a>.</p>
+        <p class="footer-line">"Being practical does not mean skipping formalities" ;)</p>
       </footer>
 
     </div>
