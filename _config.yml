@@ -1,6 +1,7 @@
 # Site settings
 title: "Carlos' Reyes Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites based on resume-template.joelglovier.com"
+url: https://github.com/jreyesa0901/
 
 # Build settings
 markdown: kramdown

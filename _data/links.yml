@@ -1,7 +1,9 @@
 # links
-- url: "github.com"
+# example of how to direct download
+# https://github.com/jreyesa0901/jreyesa0901/blob/main/CV_2023_English__no_foto.pdf?raw=true
+- url: "https://github.com/jreyesa0901/template-cv-02/blob/gh-pages/_data/cv-english.pdf?raw=true"
   description: Click to download the CV in english
-- url: "github.com"
+- url: "https://github.com/jreyesa0901/template-cv-02/blob/gh-pages/_data/cv-deutsch.pdf?raw=true"
   description: Klick zum Herunterladen des Lebenlaufs auf Deutsch
 - url: "https://www.xing.com/profile/Carlos_Reyes071607/portfolio"
   description: XING Profile
