@@ -19,7 +19,7 @@
   description: C for embedded applications, ExST, C++, Python, Ladder (S7), SPEL+, foundations of YAML, HTML, Markdown, LaTEX.
 
 - skill: Programming IDEs
-  description: TwinCAT3, Visual Studio, Eclipse, STM32CubeIDE, foundations Code Composer and MPLAB, SIEMENS TIA PORTAL, MATLAB, LabView, Linux-based hardware configuration tools, Linux Bash Terminal, , EPSON’s IDE for Robot’s Controllers, PlatformIO, AVR/Microchip Studio.
+  description: CLion, TwinCAT3, Visual Studio, Eclipse, STM32CubeIDE, foundations Code Composer and MPLAB, SIEMENS TIA PORTAL, MATLAB, LabView, Linux-based hardware configuration tools, Linux Bash Terminal, , EPSON’s IDE for Robot’s Controllers, PlatformIO, AVR/Microchip Studio.
 
 - skill: Libraries
   description: SF4 API (AVR Libraries), CMSIS-RTOS, FreeRTOS, STM HAL Libraries, SOES/SOEM open EtherCAT libraries, C2000 APIs , ESP-1ch-Gateway, arduino lmic and others.

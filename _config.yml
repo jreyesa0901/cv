@@ -19,12 +19,12 @@ resume_contact_email:           "jreyesa0901@web.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       ""
-resume_contact_address:         "12555, Berlin"
+resume_contact_address:         "22049/12555, Hamburg/Berlin"
 
-resume_header_contact_info:     "12555, Berlin • jreyesa0901(at)web(dot)com • jreyesa0901(at)gmail(dot)com"
+resume_header_contact_info:     "22049/12555, Hamburg/Berlin • jreyesa0901(at)web(dot)com • jreyesa0901(at)gmail(dot)com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>My 5+ years of experience as SW and HW developer motivates me to grow professionally in areas such as SW Testing for embedded systems (automatic integration, functional, acceptance tests), certification of industrial communication modules and assessment of systems reliability.</p>"
+resume_header_intro: "<p>My 5+ years of experience as SW and HW developer motivates me to grow professionally in areas such as SW Testing for embedded systems (automatic integration, functional, acceptance tests), certification of industrial communication modules and assessment of systems reliability. Download my CV in PDF format with the links down the end of this page.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

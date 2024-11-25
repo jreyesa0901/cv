@@ -7,10 +7,10 @@
 #  use nouns instead of ings
 
 # Freelance
-- company: General IT Consulting, Mex
-  position: Freelancer
-  duration: "Part-time: Since Jun 2024"
-  summary: <ul class="resume-item-list"><li> Software management for starting tech teams, home-security cameras and modems configuration, basic web pages creation for independent initiatives.</li>
+- company: Independent IT-Consulting, Remote
+  position: Independent
+  duration: "Spare-time: Since Jun 2024"
+  summary: <ul class="resume-item-list"><li>Code review and software management with Git tools for independent starting tech projects.</li><li> Home-security cameras and modems configuration, integration of electronic prototypes for smart-home applications and basic web pages creation for independent and cultural initiatives.</li>
 # Eppi
 - company: Eppendorf Liquid Handling GmbH, Ger
   position: Software Engineer in Embedded Systems
