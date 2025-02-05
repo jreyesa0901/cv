@@ -12,7 +12,7 @@
   duration: "Spare-time: Since Jun 2024"
   summary: <ul class="resume-item-list"><li>Code review and software management with Git tools for independent starting tech projects.</li><li> Home-security cameras and modems configuration, integration of electronic prototypes for smart-home applications and basic web pages creation for independent and cultural initiatives.</li>
 # Eppi
-- company: Eppendorf Liquid Handling GmbH, Ger
+- company: Wellfound Independent Contractor, remote Ger
   position: Software Engineer in Embedded Systems
   duration: "Full-time: 2023"
   summary: <ul class="resume-item-list"><li>Support for SW and QA teams to create a new generation of electronic pipettes, employing modern object-oriented techniques with C++ and Git.</li><li>Incorporation of new features such as operating modes, screen buttons, their corresponding actions, as well as unit-, integration tests and manual exploratory tests. </li><li>Migration and maintenance of legacy code in C for electronic pipettes, using GIT and IAR compilation and debugging tools.</li>
